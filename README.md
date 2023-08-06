@@ -2,7 +2,7 @@
 
 本项目用于学习 HiveSQL ，从简单查询到复杂需求的实现，提升 SQL 能力等等，笔者自学练习项目。
 
-项目中的题目以及数据均来源于尚硅谷官方：[https://www.bilibili.com/video/BV1og4y1w7W3/?vd_source=01e14d912d4b0851fa122ae5b142e08f](尚硅谷大数据HiveSQL练习题，HQL案例大全)
+项目中的题目以及数据均来源于尚硅谷官方：[尚硅谷大数据HiveSQL练习题，HQL案例大全](https://www.bilibili.com/video/BV1og4y1w7W3/?vd_source=01e14d912d4b0851fa122ae5b142e08f)
 
 **仅作为笔者学习分享，不提供任何商业用途。**
 
