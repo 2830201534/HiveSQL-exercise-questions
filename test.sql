@@ -1,0 +1,1 @@
+select * from dwd.dim_coupon_info limit 10;
