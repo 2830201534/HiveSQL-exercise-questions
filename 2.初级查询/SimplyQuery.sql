@@ -1,3 +1,4 @@
+-- TODO 简单查询
 -- 1.查询姓名中带“山”的学生名单
 select * from student_info where stu_name like "%山%";
 
