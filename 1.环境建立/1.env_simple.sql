@@ -51,3 +51,6 @@ load data local inpath '/opt/software/HiveSQLStudy/course_info.txt' into table c
 load data local inpath '/opt/software/HiveSQLStudy/teacher_info.txt' into table teacher_info;
 
 load data local inpath '/opt/software/HiveSQLStudy/score_info.txt' into table score_info;
+
+-- TODO 数据集下载地址
+-- https://pan.baidu.com/s/14x7OhJoOCpQv76kbGasing#list/path=%2F
